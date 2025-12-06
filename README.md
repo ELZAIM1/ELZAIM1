@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML ENGINEER</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ2c21wZDdwazlxb3hua2pmNzduajNnMXRxbzNpbTZkZjZxZnNyciZlcD12MV9naWZzX3NlYXJjaCZjdT1z/xTiTniuHdUjpOlNo1q/giphy.gif" width="500"/>
+  <img src="https://tenor.com/view/skidding-skid-code-coding-stealing-code-gif-17063015604579876516" width="500"/>
 </p>
 
 ---
