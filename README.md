@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML ENGINEER</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/skidding-skid-code-coding-stealing-code-gif-17063015604579876516" width="500"/>
+  <img src="https://media.tenor.com/tHqgG9R_rM4AAAAd/skidding-skid.gif" width="500"/>
 </p>
 
 ---
