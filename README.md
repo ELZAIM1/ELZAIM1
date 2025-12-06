@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML ENGINEER</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ2c21wZDdwazlxb3hua2pmNzduajNnMXRxbzNpbTZkZjZxZnNyciZlcD12MV9naWZzX3NlYXJjaCZjdT1z/xTiTniuHdUjpOlNo1q/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjYwNDUxemZ6ejRmcTRjMW5uZ29qcnBqNTJkOTFjam5waXV3eGZkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif)" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ2c21wZDdwazlxb3hua2pmNzduajNnMXRxbzNpbTZkZjZxZnNyciZlcD12MV9naWZzX3NlYXJjaCZjdT1z/xTiTniuHdUjpOlNo1q/giphy.gif" width="500"/>
 </p>
 
 ---
