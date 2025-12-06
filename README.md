@@ -57,9 +57,12 @@ Tech Stack:
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELZAIM1&theme=dark" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=ELZAIM1&show_icons=true&theme=dark" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=ELZAIM1&theme=dark&hide_border=true" height="160px" />
+ <img src="https://streak-stats.demolab.com?user=ELZAIM1&theme=dark&hide_border=true&date_format=j%20M[%20Y]&fire=orange&ring=orange&currStreakLabel=white&sideNums=white&sideLabels=gray&dates=gray&exclude_days=Sun" height="160px" />
+
 </div>
+
+
 
 ---
 
