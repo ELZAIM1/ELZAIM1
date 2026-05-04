@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 - 🔭 I'm currently learning **Python, Machine Learning, and Deep Learning**  
-- 🎯 My goal: **Become a professional AI developer and work with clients**  
+- 🎯 My goal: **Become a professional AI developer**  
 - 📚 Learning step-by-step and preparing real projects  
 - 🚀 Projects section will be updated soon!
 
