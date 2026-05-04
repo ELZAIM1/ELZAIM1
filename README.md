@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack (with Icons)
+## 🛠️ Tech Stack 
 
 ### 🔹 Programming Languages
 <p>
