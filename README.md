@@ -42,8 +42,7 @@
 
 ---
 
-## 📂 Featured Projects (Coming Soon)
-> أول ما تعمل مشروع، هضيفه هنا بشكل احترافي 🔥
+## 📂 Featured Projects (Coming Soon) 🔥
 
 ### 🔸 Project 1 — *(Coming Soon)*  
 Description:  
